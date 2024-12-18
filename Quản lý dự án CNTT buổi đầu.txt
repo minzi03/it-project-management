@@ -1,0 +1,24 @@
+Tuần 1: intro
+Tuần 2: xác định/mô tả đề tài
+Tuần 3: nghỉ/học, chuẩn bị seminar
+Tuần 4: trình bày việc chuẩn bị seminar
+Tuần 5 +6: chuẩn bị đề tài
+Tuần 7: báo cáo
+báo cáo có template
+
+1.
+Quản lý dự án là quản lý nguồn lực(tài chính, nhân lực, thời gian, rủi ro)
+2.giới thiệu các phần mềm quản lý dự án
+Mô tả tính năng + giao diện cơ bản
+3.
+phần mềm thuộc quy mô nào
+lý do chọn phần mềm
+ưu điểm, nhược điểm, chức năng
+ 
+4 chủ đề seminar:
++ Tổng quan Agile/Scrum
++ product owner
++ scrum master
++ development team
+
+dùng figma làm giao diện phát triển phần mềm
